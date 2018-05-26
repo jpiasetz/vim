@@ -12,6 +12,9 @@ set softtabstop=4
 set tabstop=4
 set viminfo=
 
+runtime ftplugin/man.vim
+let g:ft_man_open_mode = 'vert'
+
 packloadall
 silent! helptags ALL
 colorscheme onedark
