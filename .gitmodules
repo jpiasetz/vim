@@ -13,6 +13,9 @@
 [submodule "pack/git-plugins/start/instant-markdown"]
 	path = pack/git-plugins/start/instant-markdown
 	url = git@github.com:suan/vim-instant-markdown.git
+[submodule "pack/git-plugins/start/ledger"]
+	path = pack/git-plugins/start/ledger
+	url = git@github.com:ledger/vim-ledger.git
 [submodule "pack/git-plugins/start/onedark"]
 	path = pack/git-plugins/start/onedark
 	url = git@github.com:joshdick/onedark.vim.git
