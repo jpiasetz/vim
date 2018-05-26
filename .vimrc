@@ -14,3 +14,4 @@ set viminfo=
 
 packloadall
 silent! helptags ALL
+colorscheme onedark
