@@ -10,6 +10,9 @@
 [submodule "pack/git-plugins/start/fugitive"]
 	path = pack/git-plugins/start/fugitive
 	url = git@github.com:tpope/vim-fugitive.git
+[submodule "pack/git-plugins/start/instant-markdown"]
+	path = pack/git-plugins/start/instant-markdown
+	url = git@github.com:suan/vim-instant-markdown.git
 [submodule "pack/git-plugins/start/onedark"]
 	path = pack/git-plugins/start/onedark
 	url = git@github.com:joshdick/onedark.vim.git
