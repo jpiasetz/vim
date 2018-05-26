@@ -1,6 +1,9 @@
 [submodule "pack/git-plugins/start/ale"]
 	path = pack/git-plugins/start/ale
 	url = git@github.com:w0rp/ale.git
+[submodule "pack/git-plugins/start/cute-python"]
+	path = pack/git-plugins/start/cute-python
+	url = git@github.com:ehamberg/vim-cute-python.git
 [submodule "pack/git-plugins/start/editorconfig"]
 	path = pack/git-plugins/start/editorconfig
 	url = git@github.com:editorconfig/editorconfig-vim.git
